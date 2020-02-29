@@ -1,6 +1,6 @@
 '''
 
-Jogo ENTEDIDADO
+Jogo ENTEDIDADO v0.1
 Criado por: Lucas V S Monteiro
 GitHub: https://github.com/lvsmont
 
@@ -20,7 +20,7 @@ reset = "n"
 
 while (reset == "n"):
     cls()
-    print("   ***   ENTEDIDADO   ***\n----------------------------\n")
+    print("   ***   ENTEDIDADO  v0.1   ***\n----------------------------------\n")
     print("Escolha um modo de jogo.\n")
     print("1) High or Low")
     print("9) Sair do jogo...")
